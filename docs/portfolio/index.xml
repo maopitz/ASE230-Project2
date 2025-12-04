@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mason’s ASE230 Portfolio</title>
+    <link>http://localhost:1313/portfolio/</link>
+    <description>Recent content on Mason’s ASE230 Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portfolio/project1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/project1/</guid>
+      <description>&lt;h1 id=&#34;project-1--php-rest-api&#34;&gt;Project 1 — PHP REST API&lt;a class=&#34;anchor&#34; href=&#34;#project-1--php-rest-api&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;a class=&#34;anchor&#34; href=&#34;#overview&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;A full REST API system for Student Course Management using:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;PHP (no frameworks)&lt;/li&gt;&#xA;&lt;li&gt;MySQL + PDO&lt;/li&gt;&#xA;&lt;li&gt;JSON endpoints&lt;/li&gt;&#xA;&lt;li&gt;Bearer token security&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Includes:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Students API&lt;/li&gt;&#xA;&lt;li&gt;Courses API&lt;/li&gt;&#xA;&lt;li&gt;Enrollment API (secured)&lt;/li&gt;&#xA;&lt;li&gt;Documentation using Marp&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portfolio/project2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/project2/</guid>
+      <description>&lt;h1 id=&#34;project-2--laravel-docker-hugo-github-actions&#34;&gt;Project 2 — Laravel, Docker, Hugo, GitHub Actions&lt;a class=&#34;anchor&#34; href=&#34;#project-2--laravel-docker-hugo-github-actions&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;a class=&#34;anchor&#34; href=&#34;#overview&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;This project re-implements Project 1 using modern tools:&lt;/p&gt;&#xA;&lt;h3 id=&#34;backend&#34;&gt;Backend&lt;a class=&#34;anchor&#34; href=&#34;#backend&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Laravel 11&lt;/li&gt;&#xA;&lt;li&gt;Eloquent ORM&lt;/li&gt;&#xA;&lt;li&gt;Sanctum authentication&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;devops&#34;&gt;DevOps&lt;a class=&#34;anchor&#34; href=&#34;#devops&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Docker containerization&lt;/li&gt;&#xA;&lt;li&gt;Docker Compose orchestration&lt;/li&gt;&#xA;&lt;li&gt;Automated deployment with shell scripts&lt;/li&gt;&#xA;&lt;li&gt;GitHub Actions for CI/CD&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;documentation&#34;&gt;Documentation&lt;a class=&#34;anchor&#34; href=&#34;#documentation&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Rebuilt using Hugo&lt;/li&gt;&#xA;&lt;li&gt;Hosted at: &lt;a href=&#34;https://maopitz.github.io/&#34;&gt;https://maopitz.github.io/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
