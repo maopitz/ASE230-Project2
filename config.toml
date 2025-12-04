@@ -1,4 +1,4 @@
-baseURL = "https://maopitz.github.io/"
+baseURL = 'https://maopitz.github.io/ASE230-Project2/'
 languageCode = "en-us"
 title = "Mason’s ASE230 Portfolio"
 theme = "hugo-book"
