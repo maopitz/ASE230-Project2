@@ -1,0 +1,15 @@
+baseURL = "https://maopitz.github.io/"
+languageCode = "en-us"
+title = "Mason’s ASE230 Portfolio"
+theme = "hugo-book"
+publishDir = "docs"
+
+[params]
+  BookTheme = "auto"
+  BookToC = true
+  BookSection = "docs"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
